@@ -77,4 +77,4 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 <br />
 
-[![Brought to you by Thinkster](https://github.com/Mustafa0831/Angularjs.git](https://thinkster.io)
+
